@@ -1,0 +1,14 @@
+h1 {
+    color: #e7c8cd;
+    background-color: rgba(142, 59, 59, 0.67);
+}
+
+h4 {
+    color: whitesmoke;
+    background-color: black;
+}
+
+#describe {
+    font-family: monospace;
+    font-size: 14px;
+}

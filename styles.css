@@ -1,0 +1,33 @@
+a {
+    font-size: 40px;
+    font-family: serif;
+}
+
+.ppp {
+    color: #e7c8cd;
+    background-color: rgba(142, 59, 59, 0.67);
+}
+
+.anal {
+    color: #e5c8cd;
+    background-color: rgb(159, 183, 113);
+}
+
+.shit {
+    color: rgb(85, 42, 42);
+    background-color: rgb(213, 178, 133);
+}
+
+h1 {
+    font-size: 50px;
+    color: rgba(160, 160, 240, 0.81);
+    
+}
+
+.bugger {
+    font-weight: 700;
+    font-size: 11px;
+    color: aliceblue;
+    background-color: rgb(178, 0, 0);
+    font-family: serif;
+}
